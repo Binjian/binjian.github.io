@@ -1,9 +1,6 @@
 ---
 # Display name
-title: Binjian Xin 忻斌健
-
-# Name pronunciation (optional)
-name_pronunciation: Xin Binjian
+title: Binjian Xin
 
 # Full name (for SEO)
 first_name: Binjian
