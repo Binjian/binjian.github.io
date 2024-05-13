@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Binjian Xin is a Deep Learning Researcher and Software Architect. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Binjian Xin is a Deep Learning Researcher and Software Architect. His research interests include deep reinforcement learning, active inference and software design.
 {style="text-align: justify;"}
