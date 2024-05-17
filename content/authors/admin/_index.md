@@ -1,6 +1,9 @@
 ---
 # Display name
-title: Binjian Xin
+title: 忻斌健
+
+# Name pronunciation (optional)
+name_pronunciation: Xin Binjian 
 
 # Full name (for SEO)
 first_name: Binjian
@@ -14,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Deep Learning Researcher & Software Architect
+role: Deep Learning Researcher & Software Designer
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Deep Reinforcment Learning, Image and Time Series Processing, Autonomous Driving and Software Architecture.
+bio: My research interests include Deep Learning, Deep Reinforcment Learning, Image and Time Series Processing, Autonomous Driving and Software Design.
 
 # Interests to show in About widget
 interests:
@@ -47,12 +50,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 95
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -66,17 +69,22 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
+        icon_pack: fas
+      - name: Reading
+        description: ''
+        percent: 90
+        icon: person-running
         icon_pack: fas
       - name: Cats
         description: ''
-        percent: 100
+        percent: 80
         icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera-retro
         icon_pack: fas
 
@@ -114,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Binjian Xin is a Deep Learning Researcher and Software Architect. His research interests include deep reinforcement learning, active inference and software design.
+Binjian Xin is a deep learning researcher and software developer. His research interests include deep reinforcement learning, active inference and software design.
 {style="text-align: justify;"}
