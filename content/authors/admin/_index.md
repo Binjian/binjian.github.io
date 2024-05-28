@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Deep Learning Researcher & Software Designer
+role: Deep Learning Practioner & Software Developer
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Binjian Xin is a deep learning researcher and software developer. His research interests include deep reinforcement learning, active inference and software design.
+Binjian Xin is a deep learning practitioner and software developer. His interests include deep reinforcement learning, active inference and software design.
 {style="text-align: justify;"}
