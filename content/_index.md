@@ -62,26 +62,70 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Advanced Research Senior Technical Director
+        - title: Senior Technical Director, Advanced Development
           company: Newrizon
           company_url: 'https://www.newrizon.com'
           company_logo: newrizon1
           location: Shanghai
-          date_start: '2020-11-20'
+          date_start: '2020-11-23'
           date_end: '2024-05-09'
           description: |2-
-              Responsibilities include:
               * Reinforcemnt learning based BEV controller optimization in multimodal complex environments.
               * Timeseries anomaly detection and battery state of safety prediction based on generative models.
-              * Software design & development of streaming data pipelines for time sequences
-        - title: Autonomous Driving Senior Manager 
+              * Software design & development of streaming data pipelines 
+        - title: Senior Manager, Autonomous Driving  
           company: Nio
           company_url: 'https://www.nio.com'
           company_logo: nio
           location: Shanghai
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2015-11-20'
+          date_end: '2020-11-23'
+          description: |2-
+              * Advanced hardware and software design of autonomous driving systems.
+              * Development of intelligent charging and automatic parking assistance system.                      
+              * Application and operation of Intelligent Connected Vehicle (ICV) road test in Shanghai and Beijing.
+        - title: Technical Manager, ADAS 
+          company: Patac/SAIC-GM
+          company_url: 'http://www.patac.com.cn/'
+          company_logo: patac
+          location: Shanghai
+          date_start: '2015-11-20'
+          date_end: '2020-11-23'
+          description: |2-
+              * System \& software architecture design for active safety domain unit (ADU).
+              * PATAC ADU A sample: system and software architecture of embedded platform.
+              * Software architecture of SAIC-MAXUS SV73 highway assist.
+              * Camera based driver monitoring system.
+        - title: Software Manager
+          company: Visteon Asia Pacific
+          company_url: 'https://www.visteon.com/'
+          company_logo: visteon
+          location: Shanghai
+          date_start: '2015-01-20'
+          date_end: '2015-08-30'
+          description: |2-
+              * SOP project of instrument clusters.
+        - title: Senior Manager, Software 
+          company: Hella Electronics
+          company_url: 'http://www.hella.com/'
+          company_logo: hella
+          location: Shanghai
+          date_start: '2014-07-15'
+          date_end: '2015-01-18'
+          description: |2-
+              * SOP project of BCM and PEPS.
+              * Platform project of PEPS, BCM, BSW.
+        - title: Senior Manager, ADAS
+          company: Harman International
+          company_url: 'http://www.harman.com/'
+          company_logo: harman
+          location: Shanghai
+          date_start: '2009-09-01'
+          date_end: '2014-07-14'
+          description: |2-
+              * Development of video based ADAS system.
+              * SOP projects of camera based parking systems.
+              * Supervision of ADAS advanced research.
     design:
       columns: '2'
   - block: portfolio
@@ -148,9 +192,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: binjian.xin@gmail.com
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '31.15857'
-        longitude: '121.18973'  
       # Automatically link email and phone or display as text?
       autolink: true
     design:

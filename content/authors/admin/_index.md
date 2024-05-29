@@ -68,6 +68,19 @@ skills:
         percent: 60
         icon: rocket
         icon_pack: fas
+  - name: Languages
+    color: '#186618'
+    color_border: '#3a8c3a'
+    items:
+      - name: Chinese
+        description: ''
+        percent: 95
+      - name: English
+        description: ''
+        percent: 80
+      - name: German
+        description: ''
+        percent: 80
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -80,7 +93,7 @@ skills:
       - name: Reading
         description: ''
         percent: 90
-        icon: person-running
+        icon: book-open-reader
         icon_pack: fas
       - name: Photography
         description: ''
@@ -92,6 +105,7 @@ skills:
         percent: 60
         icon: cat
         icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
