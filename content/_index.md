@@ -55,31 +55,30 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: Nov 2020
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Advanced Research Senior Technical Director
+          company: Newrizon
+          company_url: 'https://www.newrizon.com'
+          company_logo: newrizon1
+          location: Shanghai
+          date_start: '2020-11-20'
+          date_end: '2024-05-09'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
+              * Reinforcemnt learning based BEV controller optimization in multimodal complex environments.
+              * Timeseries anomaly detection and battery state of safety prediction based on generative models.
+              * Software design & development of streaming data pipelines for time sequences
+        - title: Autonomous Driving Senior Manager 
+          company: Nio
+          company_url: 'https://www.nio.com'
+          company_logo: nio
+          location: Shanghai
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
@@ -154,14 +153,6 @@ sections:
         longitude: '121.18973'  
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
     design:
       columns: '2'
 ---
