@@ -1,5 +1,5 @@
 ---
-title: git-basics
+title: Git Basics
 author: Binjian Xin
 date: "2023-04-20T00:00:00+08:00"
 draft: false
