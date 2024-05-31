@@ -66,7 +66,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -108,6 +108,9 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+  devicon:
+    enable: true
+
 
 # Security
 

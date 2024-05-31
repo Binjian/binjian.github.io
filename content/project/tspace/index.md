@@ -10,23 +10,23 @@ external_link: 'https://binjian.github.io/tspace/'
 image:
   caption: Photo by[Scientific American](https://www.scientificamerican.com/article/what-is-spacetime/) 
   focal_point: Smart
-# 
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
-# url_code: ''
-# url_pdf: ''
-# url_slides: ''
-# url_video: ''
+ 
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+ #Slides (optional).
+ #  Associate this project with Markdown slides.
+ #  Simply enter your slide deck's filename without extension.
+ #  E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+ #  Otherwise, set `slides = ""`.
+slides: example
 ---
 
 Time sequence data pipleline framework for deep reinforcement learning:
