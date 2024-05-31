@@ -16,7 +16,7 @@ slides:
 Binjian Xin | 2023-01-12
 
 ---
-table of contents:
+Table of Contents
 
 - [Git short introduction](#git-short-introduction)
 - [Inside Git](#inside-git)

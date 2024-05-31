@@ -23,7 +23,7 @@ tags: [git, training]
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**git-scm**](https://git-scm.com)'
   focal_point: Right
 
 url_code: ''

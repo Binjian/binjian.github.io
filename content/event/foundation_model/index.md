@@ -1,10 +1,10 @@
 ---
-title: Introductino to foundation model (Chinese)
+title: Introduction to foundation model (Chinese)
 
-event: Training of AI 
+event: AI introduction 
 event_url:
 
-location: Confernce room
+location: Conference room
 address:
 
 summary: An introduction to recent progress of foundation models 
@@ -24,7 +24,7 @@ tags: [deep learning, llm]
 featured: true 
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**@repligate**](https://x.com/repligate/status/1614416190025396224)'
   focal_point: Right
 
 url_code: ''

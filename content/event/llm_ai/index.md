@@ -1,10 +1,10 @@
 ---
 title: Introductino to large language model (Chinese)
 
-event: Training about LLM 
+event: AI Introduction  
 event_url:
 
-location: Confernce room
+location: Conference room
 address:
 
 summary: An introduction to recent progress of large language models 
@@ -24,7 +24,7 @@ tags: [deep learning, llm]
 featured: true 
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**New Yorker**](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)'
   focal_point: Right
 
 url_code: ''

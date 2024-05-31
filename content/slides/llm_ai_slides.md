@@ -217,7 +217,7 @@ Amazon: AlexaTM(20B)
 
 ---
 
-#### [ChatGPT 的虚假承诺](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) {#chatgpt 的虚假承诺}
+#### [ChatGPT 的虚假承诺](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) {#chatgpt-的虚假承诺}
 
 {{< figure src="/ox-hugo/Noam_Chomsky_portrait_2017_retouched.png" title="诺姆⋅乔姆斯基" width="30%" >}}
 
@@ -472,7 +472,7 @@ We try to copy these patterns in our lives and our society, seeking the rhythms,
 
 ---
 
-### [GPT3 应用](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) {#gpt3 应用}
+### [GPT3 应用](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) {#gpt3-应用}
 
 {{< figure src="/ox-hugo/09-gpt3-generating-react-code-example.gif" alt="training samples" title="生成代码" width="30%" >}}
 
@@ -491,7 +491,7 @@ We try to copy these patterns in our lives and our society, seeking the rhythms,
 
 ---
 
-### ChatGPT {#chatgpt}
+### ChatGPT {#chatgpt-overview}
 
 {{< figure src="/ox-hugo/ChatGPT_Diagram.svg" title="两阶段训练" width="50%" >}}
 

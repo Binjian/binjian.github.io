@@ -2,6 +2,7 @@
 title: tspace
 tags:
   - deep learning
+  - deep reinforcement learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -26,7 +27,7 @@ image:
  #  Simply enter your slide deck's filename without extension.
  #  E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
  #  Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Time sequence data pipleline framework for deep reinforcement learning:
