@@ -32,6 +32,10 @@ slides:
 
 {{< figure src="/ox-hugo/technology.png" >}}
 
+- 新技术的出现导致社会的进步
+- 人工智能被誉为新时代的电力
+- [Jordan Tigani 大数据已死](https://motherduck.com/blog/big-data-is-dead/)
+
 {{< speaker_note >}}
 
 新技术的出现导致社会的进步，人工智能被誉为新时代的电力
@@ -56,7 +60,10 @@ slides:
 ---
 ### 科学观念的更新 {#科学观念的更新}
 
-{{< figure src="/ox-hugo/science.png" >}}
+{{< figure src="/ox-hugo/science.png" width="40%" >}}
+
+- 三个领域发生巨大持久和深刻的变化
+- 理解原理越深刻，应用影响越大
 
 {{< speaker_note >}}
 
@@ -79,17 +86,16 @@ slides:
 <b><u>Chat</u></b> <b><u>G</u></b>enerative <b><u>P</u></b>retrained <b><u>T</u></b>ransformer
 
 -   本质：智能转化为计算
-    -   计算的基本对象：内嵌空间 （ **embedding** ）
-    -   机器学习方法
+    - 计算的基本对象：内嵌空间(**embedding**)
+    - 机器学习方法
 -   特点
-    -   大规模
-    -   单一的方法（深度学习 Transformer 架构）
-    -   多语言模式
-    -   强人工智能，AGI（？）
+    - 大规模
+    - 单一的方法(深度学习Transformer架构)
+    - 多语言模式
+    - 强人工智能 (AGI?)
 -   开源开放
-    -   知道如何工程实现，根本原因不清楚
-    -   普遍适用其他复杂现象：图像，控制，可迁移
-    -   机缘巧合
+    - 可迁移：图像，控制
+    - 机缘巧合
 
 {{< speaker_note >}}
 -   语料，训练样本
@@ -110,11 +116,10 @@ slides:
     -   剥洋葱的方式，一层层往里看
   {{< /speaker_note >}}
 
-
 ---
 #### Ilya Sutskever NIPS 2015 {#ilya-sutskever-nips-2015}
 
-{{< figure src="/ox-hugo/sutskever_nips2015.png" title="Sutskever 2015" width="400pix" >}}
+{{< figure src="/ox-hugo/sutskever_nips2015.png" title="Sutskever 2015" width="30%" >}}
 
 > -   如果数据集够大
 > -   并且训练一个很大的神经网络
@@ -131,42 +136,26 @@ RNN 模型，谷歌大脑
 #### 大型语言模型 {#大型语言模型}
 
 <!--list-separator-->
-
 -  GPT 系列
-
     <!--list-separator-->
-
     -  GPT2 (1.5B), GPT3 (175B), InstructGPT(Alignment, RLHF)， ChatGPT(数据收集差异), GPT4(?)
-
         👉 NanoGPT (Andrej Karpathy)
-
         -   [ChatGPT for Slack](https://www.salesforce.com/news/wp-content/uploads/sites/3/2023/03/Slack_ChatGPT_Blue.gif)
-
-        {{< figure src="/ox-hugo/Slack_ChatGPT_Blue.gif" title="神经网络做为大型语言模型" width="600px" >}}
-
+        {{< figure src="/ox-hugo/Slack_ChatGPT_Blue.gif" title="神经网络做为大型语言模型" width="40%" >}}
 ---
 #### 大型语言模型及训练计算量 {#大型语言模型及训练计算量}
 
-{{< columngrid >}}
-  {{< rowwithcolumns>}}
-    {{< oneoftwocolumns >}}
-      {{< figure src="/ox-hugo/Ai-training-computation.png" title="隐空间聚类分布" width="500pix" >}}
-    {{< /oneoftwocolumns >}}
-
-    {{< oneoftwocolumns >}}
-      -   Google: LaMDA(137B),PaLM(540B, Minerva,PaLM-E),BERT(0.34B)
-      -   Meta: Galactica,OPT(175B),LLaMA（65B）
-      -   MS&amp;NV: Megatron(530B)
-      -   DM: **Chinchilla** (70B)
-      -   HF🤗:Bloom(175B)
-      -   EleutherAI: GPT-NEO(2.7B),-J(6B),-NeoX(20B)
-      -   DALL-E, Imagen, Flamingo, Parti, SD
-    {{< /oneoftwocolumns >}}
-  {{< /rowwithcolumns >}}
-{{< /columngrid >}}
+{{< figure src="/ox-hugo/Ai-training-computation.png" width="60%" >}}
 
 {{< speaker_note >}}
 
+-   Google: LaMDA(137B),PaLM(540B, Minerva,PaLM-E),BERT(0.34B)
+-   Meta: Galactica,OPT(175B),LLaMA（65B）
+-   MS&amp;NV: Megatron(530B)
+-   DM: **Chinchilla** (70B)
+-   HF🤗:Bloom(175B)
+-   EleutherAI: GPT-NEO(2.7B),-J(6B),-NeoX(20B)
+-   DALL-E, Imagen, Flamingo, Parti, SD
 模型大小：神经网络参数个数（推理），训练消耗的计算量
 
 计算问题！
@@ -182,13 +171,12 @@ Amazon: AlexaTM(20B)
 ---
 #### 锂电池能量密度提升 {#锂电池能量密度提升}
 
-{{< figure src="/ox-hugo/FOTW_1234.png" title="锂电池能量密度的增长" width="800px" >}}
-
+{{< figure src="/ox-hugo/FOTW_1234.png" width="80%" >}}
 
 ---
 #### 大型语言模型的能力改善 {#大型语言模型的能力改善}
 
-{{< figure src="/ox-hugo/llm-progress.jpg" title="Emergence Behavior" width="500px" >}}
+{{< figure src="/ox-hugo/llm-progress.jpg" width="500px" >}}
 
 {{< speaker_note >}}
 
@@ -202,15 +190,15 @@ Amazon: AlexaTM(20B)
 ---
 #### 社会影响 {#社会影响}
 
-{{< figure src="/ox-hugo/ai_investment.png" alt="人工智能的投入" title="人工智能的投入" width="600px" >}}
+{{< figure src="/ox-hugo/ai_investment.png" alt="人工智能的投入" title="人工智能的投入" width="60%" >}}
 
--   微软入股 OpenAI 100 亿美元，持股增至 49%，
--   人工智能军备竞赛：微软(Sydney)，谷歌(LLaMDA, Bard)，Meta(Galactica, LlaMa), GPT4 发布
--   智能(Intelligence)，能动性(Agency)，知觉（Sentience)，意识(Conciousness)，意志（Free Will)...
-    -   [Washington Post LaMDA Report](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
+-   微软入股OpenAI
+-   竞争:微软(Sydney),谷歌(LLaMDA,Bard)，Meta(Galactica,LlaMa),GPT4
+-   智能(Intelligence),能动性(Agency),知觉(Sentience),意识(Conciousness),意志(Will)
 
 {{< speaker_note >}}
 
+-   [Washington Post LaMDA Report](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
 -   复旦邱锡鹏 MOSS
 -   智能的物质基础?
 -   智能是人性根本性的一部分？（从人性中分离？）
@@ -221,12 +209,14 @@ Amazon: AlexaTM(20B)
 ---
 #### [ChatGPT的虚假承诺](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) {#chatgpt的虚假承诺}
 
-{{< figure src="/ox-hugo/Noam_Chomsky_portrait_2017_retouched.png" title="诺姆⋅乔姆斯基" width="400pix" >}}
+{{< figure src="/ox-hugo/Noam_Chomsky_portrait_2017_retouched.png" title="诺姆⋅乔姆斯基" width="30%" >}}
 
-> 所谓人工智能革命性的进展令人既担忧又乐观。
-> 乐观是因为智能可以用于解决问题，担忧是因为当今最流行的人工智能方法，也就是机器学习，它的语言和知识的概念从根本上是有缺陷的。
+> 它可以用于解决问题,
+> 但它的语言和知识的概念从根本上是有缺陷的。
 
 {{< speaker_note >}}
+> 所谓人工智能革命性的进展令人既担忧又乐观。
+> 乐观是因为智能可以用于解决问题，担忧是因为，它的语言和知识的概念从根本上是有缺陷的。
 
 这种机器学习方法把这些内含缺陷的概念整合到我们的技术和产品中， 从而贬低了我们的科学和道德伦理。
 The human mind is not, like ChatGPT and its ilk, a lumbering statistical engine for pattern matching, gorging on hundreds of terabytes of data and extrapolating the most likely conversational response or most probable answer to a scientific question. On the contrary, the human mind is a surprisingly efficient and even elegant system that operates with small amounts of information; it seeks not to infer brute correlations among data points but to create explanations.
@@ -241,12 +231,13 @@ The human mind is not, like ChatGPT and its ilk, a lumbering statistical engine 
 ---
 #### [Yoshua Bengio](https://venturebeat.com/ai/as-gpt-4-chatter-resumes-yoshua-bengio-says-chatgpt-is-a-wake-up-call/) {#yoshua-bengio}
 
-{{< figure src="/ox-hugo/Yoshua_Bengio_2019_cropped.jpg" title="诺姆⋅乔姆斯基" width="400pix" >}}
+{{< figure src="/ox-hugo/Yoshua_Bengio_2019_cropped.jpg" width="30%" >}}
 
-> ChatGPT 令人印象深刻，但在科学上只是微小的一步，最多称得上是工程上的进展。它的主要意义在于唤醒公众对人工智能意义的认识。
+> ChatGPT令人印象深刻,但在科学上只是微小的一步,
+> 最多称得上是工程上的进展.
 
 {{< speaker_note >}}
-
+ChatGPT 令人印象深刻，但在科学上只是微小的一步，最多称得上是工程上的进展。它的主要意义在于唤醒公众对人工智能意义的认识。
 -   1990s：1991 "ANN and their application to sequence recognition"
 -   2000s：2003 "A Neural Probabilistic Language Model" 理解大型语言模型的基础！
 -   2010s：2014 "Neural Machine Translation by Jointly Learning to Align and translate"
@@ -268,7 +259,7 @@ The human mind is not, like ChatGPT and its ilk, a lumbering statistical engine 
 ---
 ### 用例 {#用例}
 
-{{< figure src="/ox-hugo/nn.png" title="神经网络做为大型语言模型" width="500px" >}}
+{{< figure src="/ox-hugo/nn.png" title="神经网络做为大型语言模型" width="60%" >}}
 
 {{< speaker_note >}}
 -   熟悉的方案：图像，语音，控制，下棋，自然语言
@@ -284,7 +275,6 @@ The human mind is not, like ChatGPT and its ilk, a lumbering statistical engine 
 
 {{< figure src="/ox-hugo/ngram-example.png" title="n 元语法（n-gram）" width="500px" >}}
 
-{{< figure src="/ox-hugo/ngram-model.gif" title="n 元语法（n-gram）" width="500px" >}}
 
 {{< speaker_note >}}
 
@@ -297,17 +287,17 @@ The human mind is not, like ChatGPT and its ilk, a lumbering statistical engine 
 ---
 ### GPT 中的计算对象：内嵌(embedding) {#gpt-中的计算对象-内嵌--embedding}
 
-{{< figure src="/ox-hugo/word2vec.png" title="内嵌" width="500px" >}}
+{{< figure src="/ox-hugo/word2vec.png" width="50%" >}}
 
 1.  内嵌（单词/语素的编码）
     -   独立语义，在句子/文本的不同位置重复出现，可以复用的变量
     -   对应于感质（Quolia）：概念（颜色）在意识中的聚类，语言只是一种接口
-2.  内嵌的相互关系通过计算确认
-3.  内嵌通过训练样本学习，收集由句法确定的语义
-4.  [预训练内嵌空间（tensorflow）](https://projector.tensorflow.org/)
+2.  相互关系通过计算确认
+3.  通过训练样本学习，收集由句法确定的语义
 
 {{< speaker_note >}}
 
+-   [预训练内嵌空间（tensorflow）](https://projector.tensorflow.org/)
 -   内嵌空间（embedding）：概念空间 , （统计方法确定的）
 -   内嵌不是语素，是对语素进行编码得到的，需要端到端训练,token 令牌，约等于单词 100 token 约等于 75 个单词
 -   内嵌对应人类语言中的概念（quolia 感质）：离散的，吸收的。（Yoshua Bengio: quolia,离散，概念空间的引力中心）
@@ -321,13 +311,9 @@ The human mind is not, like ChatGPT and its ilk, a lumbering statistical engine 
 ---
 ### 内嵌的运算（embedding） {#内嵌的运算-embedding}
 
-{{< figure src="/ox-hugo/king-colored-embedding.png" alt="King, Man, Woman" title="内嵌向量" width="800pix" >}}
+{{< figure src="/ox-hugo/king-colored-embedding.png" alt="King, Man, Woman" title="内嵌向量" width="80%" >}}
 
-{{< figure src="/ox-hugo/king-man-woman-embedding.png" title="隐空间聚类分布" width="800pix" >}}
-
-{{< figure src="/ox-hugo/queen-woman-girl-embeddings.png" title="隐空间聚类分布" width="800pix" >}}
-
-{{< figure src="/ox-hugo/king-analogy-viz.png" title="隐空间聚类分布" width="800pix" >}}
+{{< figure src="/ox-hugo/king-man-woman-embedding.png" title="隐空间聚类分布" width="80%" >}}
 
 {{< speaker_note >}}
 
@@ -340,11 +326,31 @@ We try to copy these patterns in our lives and our society, seeking the rhythms,
 
   {{< /speaker_note >}}
 
+---
+### 内嵌的聚类（embedding） {#内嵌的聚类-embedding}
+
+
+{{< figure src="/ox-hugo/queen-woman-girl-embeddings.png" title="隐空间聚类分布" width="40%" >}}
+
+{{< figure src="/ox-hugo/king-analogy-viz.png" title="隐空间聚类分布" width="40%" >}}
+
+{{< speaker_note >}}
+
+数据（单词）本身是有结构的,相互关系，出现的频率，相似性，交换性，位置（语法，句法)的含义。
+由神经网络分布式地表达：概念之间的关系，运算（神经脉冲的传导）
+
+万物都有一种模式，它是我们宇宙的一部分。 它具有对称、优雅和魅力——您总能在真正的艺术家描绘的东西中发现这些品质。 你可以在季节的交替中，在沙子沿着山脊的轨迹中，在杂酚油灌木丛的枝条丛中或它的叶子的图案中找到它。
+我们试图在我们的生活和社会中复制这些模式，寻找节奏、舞蹈和令人舒适的形式。 然而，在寻找终极完美的过程中可能会看到危险。 很明显，最终模式包含它自己的固定性。 在这样的完美中，万物都走向死亡。
+“There is in all things a pattern that is part of our universe. It has symmetry, elegance, and grace - those qualities you find always in that which the true artist captures. You can find it in the turning of the seasons, in the way sand trails along a ridge, in the branch clusters of the creosote bush or the pattern of its leaves.
+We try to copy these patterns in our lives and our society, seeking the rhythms, the dances, the forms that comfort. Yet, it is possible to see peril in the finding of ultimate perfection. It is clear that the ultimate pattern contains it own fixity. In such perfection, all things move toward death.” ~ Dune (1965)
+
+  {{< /speaker_note >}}
+
 
 ---
 ### 图像中的内嵌 {#图像中的内嵌}
 
-{{< figure src="/ox-hugo/image_embedding.png" title="图像内嵌" width="800px" >}}
+{{< figure src="/ox-hugo/image_embedding.png" title="图像内嵌" width="80%" >}}
 
 1.  图像内嵌编码和解码，通过 DCGAN 训练得到
 2.  内嵌参数的插值：图像的连续变化（男--&gt;女）
@@ -360,13 +366,9 @@ We try to copy these patterns in our lives and our society, seeking the rhythms,
 ---
 ### [GPT3 训练](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) {#gpt3-训练}
 
-{{< figure src="/ox-hugo/01-gpt3-language-model-overview.gif" alt="Overview" title="overview" width="500pix" >}}
+{{< figure src="/ox-hugo/01-gpt3-language-model-overview.gif" alt="Overview" title="overview" width="30%" >}}
 
-{{< figure src="/ox-hugo/02-gpt3-training-language-model.gif" alt="training" title="Training" width="500pix" >}}
-
-{{< figure src="/ox-hugo/gpt3-training-examples-sliding-window.png" alt="training samples" title="training samples" width="500pix" >}}
-
-{{< figure src="/ox-hugo/03-gpt3-training-step-back-prop.gif" title="隐空间聚类分布" width="500pix" >}}
+{{< figure src="/ox-hugo/02-gpt3-training-language-model.gif" alt="training" title="Training" width="30%" >}}
 
 {{< speaker_note >}}
 
@@ -382,17 +384,34 @@ We try to copy these patterns in our lives and our society, seeking the rhythms,
 
   {{< /speaker_note >}}
 
+---
+### [GPT3 样本输入](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) {#gpt3-样本输入}
+
+{{< figure src="/ox-hugo/gpt3-training-examples-sliding-window.png" alt="training samples" title="training samples" width="30%" >}}
+
+{{< figure src="/ox-hugo/03-gpt3-training-step-back-prop.gif" title="隐空间聚类分布" width="30%" >}}
+
+{{< speaker_note >}}
+
+1.  预训练模型生成文本
+2.  单一大模型训练：355GPU years $4.6M， 300 B (token, 单词，词干/词根）
+3.  训练样本生成
+4.  训练：预测下个单词,根据目标修正参数（175 B)
+5.  数据
+    -   网络文本
+    -   代码
+    -   英语
+6.  基于上下文理解的训练
+
+  {{< /speaker_note >}}
 
 ---
 ### [GPT3 推理](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) {#gpt3-推理}
 
-{{< figure src="/ox-hugo/04-gpt3-generate-tokens-output.gif" alt="Overview" title="overview" width="500pix" >}}
+{{< figure src="/ox-hugo/04-gpt3-generate-tokens-output.gif" alt="output" title="output" width="30%" >}}
 
-{{< figure src="/ox-hugo/gpt3-parameters-weights.png" alt="training" title="Training" width="500pix" >}}
+{{< figure src="/ox-hugo/gpt3-parameters-weights.png" alt="weights" title="weights" width="30%" >}}
 
-{{< figure src="/ox-hugo/05-gpt3-generate-output-context-window.gif" alt="training samples" title="training samples" width="500pix" >}}
-
-{{< figure src="/ox-hugo/06-gpt3-embedding.gif" title="隐空间聚类分布" width="500pix" >}}
 
 {{< speaker_note >}}
 
@@ -405,15 +424,44 @@ We try to copy these patterns in our lives and our society, seeking the rhythms,
 
 
 ---
+### [GPT3 上下文与内嵌](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) {#gpt3-上下文与内嵌}
+
+{{< figure src="/ox-hugo/05-gpt3-generate-output-context-window.gif" alt="context window" title="context window" width="30%" >}}
+
+{{< figure src="/ox-hugo/06-gpt3-embedding.gif" title="内嵌空间" width="30%" >}}
+
+{{< speaker_note >}}
+
+1.  生成模型(Generative):推理一次生成一个单词;序列，自回归模型;对概率分布的采样,是随机的。多模态的根本原因。
+2.  无监督学习预训练生成有用的参数
+3.  上下文最大长度：2048 (2k);GPT-4 0.03+0.06/1k@8k, 0.06+0.12/1k@32k; ColT5 64K，自回归模型
+4.  基本步骤：1.单词转换成内嵌（编码），2.预测，3.内嵌还原成单词（解码）：内嵌的编码是端到端训练得到的。
+
+  {{< /speaker_note >}}
+
+---
 ### [GPT3 与 Transformer](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) {#gpt3-与-transformer}
 
-{{< figure src="/ox-hugo/07-gpt3-processing-transformer-blocks.gif" alt="Overview" title="overview" width="500pix" >}}
+{{< figure src="/ox-hugo/07-gpt3-processing-transformer-blocks.gif" alt="Overview" title="overview" width="30%" >}}
 
-{{< figure src="/ox-hugo/08-gpt3-tokens-transformer-blocks.gif" alt="training" title="Training" width="500pix" >}}
+{{< figure src="/ox-hugo/08-gpt3-tokens-transformer-blocks.gif" alt="training" title="Training" width="30%" >}}
+{{< speaker_note >}}
 
-{{< figure src="/ox-hugo/09-gpt3-generating-react-code-example.gif" alt="training samples" title="training samples" width="500pix" >}}
+1.  96 个 transformer 解码层， 每个解码层参数~1.8B
+2.  解码过程
+3.  App React 代码生成
+4.  迁移学习（特殊任务的细调）： InstructGPT, ChatGPT
 
-{{< figure src="/ox-hugo/10-gpt3-fine-tuning.gif" title="隐空间聚类分布" width="500pix" >}}
+<https://twitter.com/i/status/1284421499915403264>
+
+  {{< /speaker_note >}}
+
+---
+### [GPT3应用](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) {#gpt3应用}
+
+{{< figure src="/ox-hugo/09-gpt3-generating-react-code-example.gif" alt="training samples" title="生成代码" width="30%" >}}
+
+{{< figure src="/ox-hugo/10-gpt3-fine-tuning.gif" title="细调" width="30%" >}}
 
 {{< speaker_note >}}
 
@@ -430,7 +478,7 @@ We try to copy these patterns in our lives and our society, seeking the rhythms,
 ---
 ### ChatGPT {#chatgpt}
 
-{{< figure src="/ox-hugo/ChatGPT_Diagram.svg" title="隐空间聚类分布" width="800pix" >}}
+{{< figure src="/ox-hugo/ChatGPT_Diagram.svg" title="两阶段训练" width="50%" >}}
 
 -   GPT3.5: codex
 -   监督学习，细调
@@ -454,9 +502,9 @@ We try to copy these patterns in our lives and our society, seeking the rhythms,
 ---
 #### 涌现行为（[Emergence Behavior](https://www.jasonwei.net/blog/emergence)) {#涌现行为-emergence-behavior}
 
-{{< figure src="/ox-hugo/emergence.gif" title="Emergence Ablities on Benchmarks" width="600px" >}}
+{{< figure src="/ox-hugo/emergence.gif" title="Emergence Ablities on Benchmarks" width="30%" >}}
 
-{{< figure src="/ox-hugo/emergence_behavior.jpeg" title="Emergence Behavior" width="600px" >}}
+{{< figure src="/ox-hugo/emergence_behavior.jpeg" title="Emergence Behavior" width="30%" >}}
 
 {{< speaker_note >}}
 
@@ -488,10 +536,10 @@ We try to copy these patterns in our lives and our society, seeking the rhythms,
 ---
 ### 变形金刚（Transformer） {#变形金刚-transformer}
 
-{{< figure src="/ox-hugo/transformer.png" alt="Transformer and attention" title="Transformer and attention" width="800px" >}}
+{{< figure src="/ox-hugo/transformer.png" alt="Transformer and attention" width="40%" >}}
 
 -   结构: 归纳偏差少，通用性好
-    -   注意力（内注意力（self attention)，交叉注意力， 多头内注意力
+    -   注意力: 内注意力，交叉注意力， 多头内注意力
     -   MLP,多层感知机
     -   残差结构
 -   需要大量的训练样本
@@ -514,33 +562,42 @@ GPT3
 
 #### [ChatGPT 是现实的模糊版本](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) {#chatgpt-是现实的模糊版本}
 
-{{< figure src="/ox-hugo/Chiang.gif" title="blurry web" width="800pix" >}}
+{{< figure src="/ox-hugo/Chiang.gif" width="50%" >}}
 
-ChatGPT 是现实的模糊复印
-
--   类似 jpeg 图片对原始图片的有损压缩
--   现实的描述不精确，造成语料和信息的失真和模糊
--   模型幻觉问题（hallucination），造成语料和信息的污染
--   有损压缩显得更智能
+- 类似jpeg图片对原始图片的有损压缩
+- 现实描述的不精确造成语料和信息失真
+- 模型幻觉问题造成语料和信息的污染
 
 {{< speaker_note >}}
+
+- 类似 jpeg 图片对原始图片的有损压缩
+- 现实的描述不精确，造成语料和信息的失真和模糊
+- 模型幻觉问题（hallucination），造成语料和信息的污染
+- 有损压缩显得更智能
 
 生成模型的高效迅速放大污染问题
 Markus Hutter Prize 2006 智能是一种压缩，无损压缩: 1GB wiki --&gt; 115MB
 
   {{< /speaker_note >}}
 
-
 ---
 #### [GPT4 和语言的未知领域](https://www.fast.ai/posts/2023-03-20-wittgenstein.html) {#gpt4-和语言的未知领域}
+
+“它们(LLM)还可能带来新的伦理、社会和文化挑战，需要认真反思和监管。 我们如何使用这项技术将取决于我们如何认识到它对我们自己和他人的影响。
+
+但是当我们让 GPT4 为我们做这件事时，我们不是在放弃我们的智能吗？ 难道我们没有放弃选择、挑选、阅读的能力吗？ 我们不是变成了语言的被动消费者而不是主动的生产者吗？”
+
+GPT4 Response
+prompted by Jeremy Howard
+on 2023.02.23
+
+{{< speaker_note >}}
 
 “它们(LLM)还可能带来新的伦理、社会和文化挑战，需要认真反思和监管。 我们如何使用这项技术将取决于我们如何认识到它对我们自己和他人的影响。
 
 该技术是“人工智能”的一种形式。 “智能”一词源自 inter-（“之间”）和 legere（“选择、挑选、阅读”）。 那么，智能就是能够在事物之间做出选择，挑选出重要的东西，阅读所写的东西。 智力不仅仅是数量或质量； 它是一种活动、一种过程、一种实践。 这是我们用思想和语言做的事情。
 
 但是当我们让 GPT4 为我们做这件事时，我们不是在放弃我们的智能吗？ 难道我们没有放弃选择、挑选、阅读的能力吗？ 我们不是变成了语言的被动消费者而不是主动的生产者吗？”
-
-{{< speaker_note >}}
 
 Jeremy Howard 2023.02.23
 [GPT 4 and the Uncharted Territories of Language](https://www.fast.ai/posts/2023-03-20-wittgenstein.html)
@@ -559,15 +616,15 @@ But when we let GPT 4 do this for us, are we not abdicating our intelligence? Ar
 ---
 #### [智能与一致性问题](https://sohl-dickstein.github.io/2023/03/09/coherence.html) {#智能与一致性问题}
 
-{{< figure src="/ox-hugo/int_coh_cartoon_1.png" title="智能与条理性（coherence)" >}}
+{{< figure src="/ox-hugo/int_coh_cartoon_1.png" title="智能与条理性（coherence)" width="80%">}}
 
 
 ---
 #### 越高级的智能越混乱 {#越高级的智能越混乱}
 
-{{< figure src="/ox-hugo/int_coh_life.png" title="生物智能条理性" width="800pix" >}}
+{{< figure src="/ox-hugo/int_coh_life.png" title="生物智能条理性" width="30%" >}}
 
-{{< figure src="/ox-hugo/int_coh_organization.png" title="社会组织的条理性" width="800pix" >}}
+{{< figure src="/ox-hugo/int_coh_organization.png" title="社会组织的条理性" width="30%" >}}
 
 
 ---
