@@ -1,5 +1,5 @@
 ---
-title: Introductino to large language model (Chinese)
+title: Introduction to large language model (Chinese)
 
 event: AI Introduction  
 event_url:
