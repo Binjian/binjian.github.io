@@ -6,8 +6,8 @@ title: 忻斌健
 name_pronunciation: Xin Binjian 
 
 # Full name (for SEO)
-first_name: Binjian
-last_name: Xin
+first_name: 斌健
+last_name: 忻
 
 # Status emoji
 status:
@@ -17,36 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Deep Learning Practioner & Software Developer
+role: 深度学习 & 软件开发
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Deep Learning, Deep Reinforcment Learning, Image and Time Series Processing, Autonomous Driving and Software Design.
+bio: 研究兴趣包括深度学习，深度强化学习，图像处理，时间序列处理，自动驾驶，软件设计。
 
 # Interests to show in About widget
 interests:
-  - Deep Reinforcement Learning
-  - Autonomous Driving
-  - Time Series Modeling and Processing
-  - Computer Vision
+  - 深度学习
+  - 自动驾驶
+  - 时间序列模型和处理
+  - 计算机视觉
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Image Processing
-      institution: University of Karlsruhe
+    - course: 图像处理博士学位
+      institution: 卡尔斯鲁厄大学 
       year: 2008
-    - course: MSc in Robotics
-      institution: Tongji University
+    - course: 机器人学硕士
+      institution: 同济大学
       year: 2002
-    - course: BSc in Electrical Engineering
-      institution: Tongji University
+    - course: 电气工程学士 
+      institution: 同济大学
       year: 1998
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: 技术
     items:
       - name: Python
         description: ''
@@ -68,39 +68,39 @@ skills:
         percent: 60
         icon: rocket
         icon_pack: fas
-  - name: Languages
+  - name: 语言
     color: '#186618'
     color_border: '#3a8c3a'
     items:
-      - name: Chinese
+      - name: 中文
         description: ''
         percent: 95
-      - name: English
+      - name: 英语
         description: ''
         percent: 80
-      - name: German
+      - name: 德语
         description: ''
         percent: 80
-  - name: Hobbies
+  - name: 兴趣爱好
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: 徒步 
         description: ''
         percent: 90
         icon: person-hiking
         icon_pack: fas
-      - name: Reading
+      - name: 阅读 
         description: ''
         percent: 90
         icon: book-open-reader
         icon_pack: fas
-      - name: Photography
+      - name: 摄影 
         description: ''
         percent: 80
         icon: camera-retro
         icon_pack: fas
-      - name: Cats
+      - name: 猫 
         description: ''
         percent: 60
         icon: cat
@@ -141,5 +141,5 @@ social:
 highlight_name: true
 ---
 
-Binjian Xin is a deep learning practitioner and software developer. His interests include deep reinforcement learning, active inference and software design.
+忻斌健是一位机器学习研究和软件开发工程师， 他的兴趣包括深度学习，人工智能和软件设计。
 {style="text-align: justify;"}

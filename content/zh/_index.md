@@ -39,12 +39,12 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 简介
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
     content:
-      title: Skills
+      title: 技能
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: 工作经历
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Nov 2020
@@ -131,7 +131,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: 项目
       filters:
         folders:
           - project
@@ -158,7 +158,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: 公开文献
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -173,7 +173,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 报告
       filters:
         folders:
           - event
@@ -188,7 +188,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: 联系方式
       subtitle:
       # Contact (add or remove contact options as necessary)
       email: binjian.xin@gmail.com

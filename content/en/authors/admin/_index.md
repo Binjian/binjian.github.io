@@ -141,5 +141,5 @@ social:
 highlight_name: true
 ---
 
-Binjian Xin is a deep learning practitioner and software developer. His interests include deep reinforcement learning, active inference and software design.
+Binjian Xin is a deep learning practitioner and software developer. His interests include deep learning, artificial intelligence and software design.
 {style="text-align: justify;"}
