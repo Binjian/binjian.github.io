@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 深度学习 & 软件开发
+role: 自动驾驶 & 深度学习 & 软件开发
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究兴趣包括深度学习，深度强化学习，图像处理，时间序列处理，自动驾驶，软件设计。
+bio: 研究兴趣包括深度学习，图像处理，时间序列处理，自动驾驶，软件设计。
 
 # Interests to show in About widget
 interests:
@@ -132,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-忻斌健是一位机器学习研究和软件开发工程师， 他的兴趣包括深度学习，人工智能和软件设计。
+机器学习和软件开发工程师， 兴趣包括深度学习，人工智能和软件设计。
 {style="text-align: justify;"}
