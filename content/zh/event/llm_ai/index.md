@@ -17,7 +17,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-03-13T17:00:00+08:00'
 
-authors: [Binjian Xin]
+authors: [忻斌健]
 tags: [deep learning, llm]
 
 # Is this a featured talk? (true/false)

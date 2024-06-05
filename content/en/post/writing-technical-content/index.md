@@ -337,7 +337,6 @@ Save your spreadsheet as a CSV file in your page's folder and then render it by 
 
 renders as
 
-
 ### Callouts
 
 Academic supports a [shortcode for callouts](https://docs.hugoblox.com/content/writing-markdown-latex/#callouts), also referred to as _asides_, _hints_, or _alerts_. By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.

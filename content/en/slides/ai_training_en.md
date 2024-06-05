@@ -9,7 +9,6 @@ draft = false
 
 <div class="heading">Table of Contents</div>
 
-- [概述](#概述)
 
 </div>
 <!--endtoc-->
