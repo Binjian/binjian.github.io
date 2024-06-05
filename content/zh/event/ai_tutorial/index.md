@@ -1,5 +1,5 @@
 ---
-title: Introduction to artificial intelligence and its industrial applications (Chinese)
+title: 人工智能及其应用
 
 event: AI introduction 
 event_url:
@@ -7,7 +7,7 @@ event_url:
 location: Conference room
 address:
 
-summary: An introduction to artificial intelligence and its industrial applications
+summary: 人工智能介绍和在工业领域的应用
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-11-24T16:00:00+08:00'
@@ -16,7 +16,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-11-24T16:00:00+08:00'
 
-authors: [Binjian Xin]
+authors: [忻斌健]
 tags: [deep learning, artificial intelligence]
 
 # Is this a featured talk? (true/false)

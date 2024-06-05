@@ -12,12 +12,11 @@ image:
   focal_point: Smart
 ---
 
-Python CAN application wrapper:
+Python CAN 应用程序包:
 
-- encapsulation with cached properties,
-- validation via Pydantic,
-- virtual CAN testing via local Actions,
-- a2l file handling with lazy loading and dynamic properties,
-- lazy loading by streaming json processing.
+- 集成Pydantic,
+- 本地Github Actions的虚拟测试,
+- 缓存属性封装,
+- 动态加载的a2l文件处理.
 
 <!--more-->

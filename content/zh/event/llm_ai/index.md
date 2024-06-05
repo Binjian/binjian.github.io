@@ -1,5 +1,5 @@
 ---
-title: Introduction to large language model (Chinese)
+title: 大型语言模型介绍
 
 event: AI Introduction  
 event_url:
@@ -7,7 +7,7 @@ event_url:
 location: Conference room
 address:
 
-summary: An introduction to recent progress of large language models 
+summary: 大型语言模型的近期进展介绍
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

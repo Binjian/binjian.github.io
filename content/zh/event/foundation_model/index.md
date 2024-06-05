@@ -1,5 +1,5 @@
 ---
-title: Introduction to foundation model (Chinese)
+title: 基础大模型介绍
 
 event: AI introduction 
 event_url:
@@ -7,7 +7,7 @@ event_url:
 location: Conference room
 address:
 
-summary: An introduction to recent progress of foundation models 
+summary: 近期基础大模型的进展介绍 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -17,7 +17,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-03-13T17:00:00+08:00'
 
-authors: [Binjian Xin]
+authors: [忻斌健]
 tags: [deep learning, llm]
 
 # Is this a featured talk? (true/false)

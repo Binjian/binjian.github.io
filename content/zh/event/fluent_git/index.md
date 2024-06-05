@@ -1,5 +1,5 @@
 ---
-title: Fluent Git (Chinese)
+title: 流畅的Git
 
 event: Git Training
 # event_url: https://example.org
@@ -12,7 +12,7 @@ location: Conference room
 #  postcode: '94305'
 #  country: United States
 
-summary: An introduction to advanced concepts and operations in Git
+summary: Git进阶操作
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-09-18T16:00:00+08:00'
 
-authors: [Binjian Xin]
+authors: [忻斌健]
 tags: [git, training]
 
 # Is this a featured talk? (true/false)

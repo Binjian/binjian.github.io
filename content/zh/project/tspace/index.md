@@ -30,10 +30,9 @@ image:
 #slides: example
 ---
 
-Time sequence data pipleline framework for deep reinforcement learning:
+用于强化学习的时间序列数据处理引擎:
 
-- coordinated ETL and ML pipelines with asynchronous data pipelines,
-- online/offline & local/distributed training,
-- reinforcement learning models with regular and recurrent models;
-
+- ETL和ML协同异步数据流水,
+- 在线/离线 & 本地/分布式训练,
+- 常规和并发两种神经网络模型的的强化学习.
 <!--more-->

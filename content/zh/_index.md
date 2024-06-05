@@ -62,70 +62,74 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Technical Director, Advanced Development
-          company: Newrizon
+        - title: 高级技术总监, 智能系统
+          company: 前晨汽车
           company_url: 'https://www.newrizon.com'
           company_logo: newrizon1
-          location: Shanghai
+          location: 上海 
           date_start: '2020-11-23'
           date_end: '2024-05-09'
           description: |2-
-              * Reinforcemnt learning based BEV controller optimization in multimodal complex environments.
-              * Timeseries anomaly detection and battery state of safety prediction based on generative models.
-              * Software design & development of streaming data pipelines 
-        - title: Senior Manager, Autonomous Driving  
-          company: Nio
+              * 基于强化学习的多模式复杂环境电动力总成控制优化,
+              * 基于生成模型的时间序列异常检测和电池安全状态预测,
+              * 自动驾驶多模态基础模型和大型语言模型的研究与应用.
+        - title: 高级经理, 自动驾驶  
+          company: 蔚来汽车
           company_url: 'https://www.nio.com'
           company_logo: nio
-          location: Shanghai
+          location: 上海
           date_start: '2015-11-20'
           date_end: '2020-11-23'
           description: |2-
-              * Advanced hardware and software design of autonomous driving systems.
-              * Development of intelligent charging and automatic parking assistance system.                      
-              * Application and operation of Intelligent Connected Vehicle (ICV) road test in Shanghai and Beijing.
-        - title: Technical Manager, ADAS 
+              * L4级自动驾驶系统硬件和软件设计,
+              * 智能充电和自动泊车系统(上海市科委项目),
+              * 智能网联汽车（ICV）自动驾驶道路测试.
+
+        - title: 技术经理, 智能驾驶 
           company: Patac/SAIC-GM
           company_url: 'http://www.patac.com.cn/'
           company_logo: patac
-          location: Shanghai
+          location: 上海
           date_start: '2015-11-20'
           date_end: '2020-11-23'
           description: |2-
-              * System \& software architecture design for active safety domain unit (ADU).
-              * PATAC ADU A sample: system and software architecture of embedded platform.
-              * Software architecture of SAIC-MAXUS SV73 highway assist.
-              * Camera based driver monitoring system.
-        - title: Software Manager
-          company: Visteon Asia Pacific
+              * 主动安全域控制器（ADU）的系统与软件架构设计,
+              * 基于摄像头的驾驶员监控系统,
+              * 全景影像系统.
+
+        - title: 软件经理
+          company: 伟世通亚太
           company_url: 'https://www.visteon.com/'
           company_logo: visteon
-          location: Shanghai
+          location: 上海
           date_start: '2015-01-20'
           date_end: '2015-08-30'
           description: |2-
-              * SOP project of instrument clusters.
-        - title: Senior Manager, Software 
-          company: Hella Electronics
+              * 仪表板的量产项目。
+
+        - title: 高级经理, 软件
+          company: 海拉电子
           company_url: 'http://www.hella.com/'
           company_logo: hella
-          location: Shanghai
+          location: 上海
           date_start: '2014-07-15'
           date_end: '2015-01-18'
           description: |2-
-              * SOP project of BCM and PEPS.
-              * Platform project of PEPS, BCM, BSW.
-        - title: Senior Manager, ADAS
-          company: Harman International
+              * BCM和PEPS的量产项目。
+              * PEPS、BCM、BSW的平台项目。
+
+        - title: 高级经理, 智能驾驶 
+          company: 哈曼国际
           company_url: 'http://www.harman.com/'
           company_logo: harman
-          location: Shanghai
+          location: 哈曼  
           date_start: '2009-09-01'
           date_end: '2014-07-14'
           description: |2-
-              * Development of video based ADAS system.
-              * SOP projects of camera based parking systems.
-              * Supervision of ADAS advanced research.
+              * 视频ADAS系统开发,
+              * 基于摄像头的泊车系统的量产项目,
+              * ADAS预研: LD, FCW, 增强导航.
+
     design:
       columns: '2'
   - block: portfolio
@@ -182,7 +186,7 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: 近期话题
     design:
       columns: '2'
   - block: contact

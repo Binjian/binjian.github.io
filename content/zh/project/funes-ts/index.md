@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 ---
 
-Time series analysis with generative models:
+基于生成式模型的时间序列分析:
 
 - Vanilla GAN
 - Wasserstein GAN

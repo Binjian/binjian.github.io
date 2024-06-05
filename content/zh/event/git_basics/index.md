@@ -1,12 +1,12 @@
 ---
-title: Git Basics (English)
+title: Git基础介绍 
 
 event: Git Training
 
 location: Conference room 
 address:
 
-summary: An introduction to basic concepts in Git
+summary: Git基础概念和操作介绍
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -16,7 +16,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-01-12T00:00:00+08:00'
 
-authors: [Binjian Xin]
+authors: [忻斌健]
 tags: [git, training]
 
 # Is this a featured talk? (true/false)
