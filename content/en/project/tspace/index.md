@@ -3,6 +3,7 @@ title: tspace
 tags:
   - deep learning
   - deep reinforcement learning
+  - diffusion model
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -33,7 +34,8 @@ image:
 Time sequence data pipleline framework for deep reinforcement learning:
 
 - coordinated ETL and ML pipelines with asynchronous data pipelines,
-- online/offline & local/distributed training,
-- reinforcement learning models with regular and recurrent models;
+- online local/distributed training,
+- reinforcement learning models with regular and recurrent models,
+- offline reinforcement learning with [Implict Diffusion Q-learning](https://arxiv.org/abs/2304.10573).
 
 <!--more-->
