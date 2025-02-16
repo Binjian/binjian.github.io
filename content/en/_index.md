@@ -62,7 +62,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Technical Director, Advanced Development
+        - title: Technical Expert, Deep Reinforcement Learning
+          company: Siasun Robot, Shanghai Institute
+          company_url: 'https://en.siasun.com'
+          company_logo: siasun
+          location: Shanghai
+          date_start: '2024-11-02'
+          description: |2-
+              * Development of reinforcement learning algorithms for humanoid robot gait and manipulator control.
+              * Robot 3D semantics and SLAM 
+        - title: Technical Expert, Advanced Development
           company: Newrizon
           company_url: 'https://www.newrizon.com'
           company_logo: newrizon1

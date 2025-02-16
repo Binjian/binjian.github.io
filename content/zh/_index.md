@@ -62,6 +62,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 技术专家, 强化学习
+          company: 新松机器人上海研究院
+          company_url: 'https://www.siasun.com'
+          company_logo: siasun
+          location: 上海 
+          date_start: '2024-11-02'
+          description: |2-
+              * 双足机器人步态控制及机械臂控制
+              * 3D语义和SLAM
         - title: 高级技术总监, 智能系统
           company: 前晨汽车
           company_url: 'https://www.newrizon.com'
